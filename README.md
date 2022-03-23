@@ -17,7 +17,7 @@ to maintain for mainstream functionality). If you have any ideas maybe contribut
 - Include heavily encrypted traffic, as this is still not very secure, just minimal.
 - Add more customizable tweaks/settings for user compatibility. Will probably use a 
   seperate file to read from, config file(?). Add favourites bar/bookmarks etc.?
-- Add shortcuts for quicker use and more flexibility.
+- Add keyboard shortcuts for quicker use and more flexibility.
 - Bundle up an executable to run on systems which may not have Python installed.
 
 ### Tabbing
